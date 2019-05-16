@@ -10,7 +10,7 @@ Author - Sunil Tomar
 - 
 
 ## System Requirements
--.Net FramWork - ASP.Net
+- DotNet FramWork - ASP.Net
 - Visual Studio 2017
 
 ## How to run
