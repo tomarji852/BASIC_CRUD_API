@@ -8,16 +8,16 @@ This is the basic Introduction application of APIs.
 
 ## Features
 Four main fetture of this application
-- Crate 
+#Create: 
 Cereating new rows in table 
-- Read
+#Read:
 Selecting number of rows from table and return data data 
-- Update
+#Update:
 Updating table rows if the given id is exist in the talble 
-- Delete
+#Delete:
 Deleting table rows on behalf of given id
 
--Swagger 
+#Swagger: 
 Swagger is an open-source software framework backed by a large ecosystem of tools that helps developers design, build, document, and consume RESTful Web services 
 
 
